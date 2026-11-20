@@ -1,4 +1,4 @@
-# Formule - Capitolo 12
+# D12 Il primo principio della termodinamica
 
 | GRANDEZZA O LEGGE | A PAROLE | IN SIMBOLI |
 | :--- | :--- | :--- |
