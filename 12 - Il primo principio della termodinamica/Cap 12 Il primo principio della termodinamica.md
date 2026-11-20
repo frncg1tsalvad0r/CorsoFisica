@@ -1,0 +1,21 @@
+# Formule - Capitolo 12
+
+| GRANDEZZA O LEGGE | A PAROLE | IN SIMBOLI |
+| :--- | :--- | :--- |
+| **Rapidità di conduzione del calore** | $\text{potenza} = (\text{coefficiente di conducibilità termica}) \cdot (\text{sezione del conduttore}) \times \frac{\text{differenza di temperatura agli estremi}}{\text{spessore del conduttore}}$ | $\frac{Q}{\Delta t} = \lambda S \frac{\Delta T}{d}$ |
+| **Legge di Stefan-Boltzmann** | $\text{potenza di emissione} = (\text{emissività}) \cdot (\text{costante di Stefan-Boltzmann}) \cdot (\text{area della superficie del corpo}) \cdot (\text{temperatura})^4$ | $\frac{\Delta E}{\Delta t} = e z S T^4$ |
+| **Variazione di energia interna di un gas perfetto** | $\frac{\text{numero di gradi di libertà}}{2} \cdot (\text{moli}) \cdot (\text{costante universale dei gas}) \cdot (\text{variazione di temperatura})$ | $\Delta U = \frac{l}{2} n R \Delta T$ |
+| **Lavoro in una trasformazione isobara reversibile** | $(\text{pressione}) \cdot (\text{variazione di volume})$ | $W = p \Delta V$ |
+| **Lavoro in una trasformazione isoterma** | $(\text{moli}) \cdot (\text{costante universale dei gas}) \cdot (\text{temperatura}) \times (\text{logaritmo naturale del rapporto tra volume finale e volume iniziale})$ | $W = n R T \ln\frac{V_B}{V_A}$ |
+| **Primo principio della termodinamica** | La variazione di energia interna di un sistema è uguale alla differenza tra il calore scambiato e il lavoro compiuto. | $\Delta U = Q - W$ |
+| **Calore scambiato da un gas perfetto in una trasformazione isoterma reversibile** | $(\text{moli}) \cdot (\text{costante universale dei gas}) \cdot (\text{temperatura}) \times (\text{logaritmo naturale del rapporto tra volume finale e volume iniziale})$ | $Q = n R T \ln\frac{V_B}{V_A}$ |
+| **Calore scambiato da un gas perfetto in una trasformazione isocora** | $\text{moli} \times \frac{\text{numero di gradi di libertà}}{2} \cdot (\text{costante universale dei gas}) \cdot (\text{variazione di temperatura})$ | $Q = \frac{l}{2} n R \Delta T$ |
+| **Calore scambiato da un gas perfetto in una trasformazione isobara reversibile** | $\text{moli} \times \frac{\text{numero di gradi di libertà} + 2}{2} \cdot (\text{costante universale dei gas}) \cdot (\text{variazione di temperatura})$ | $Q = \frac{l+2}{2} n R \Delta T$ |
+| **Calore specifico molare a volume costante** | $\frac{\text{numero di gradi di libertà}}{2} \times (\text{costante universale dei gas})$ | $C_v = \frac{l}{2} R$ |
+| **Calore specifico molare a pressione costante** | $\frac{\text{numero di gradi di libertà} + 2}{2} \times (\text{costante universale dei gas})$ | $C_p = \frac{l+2}{2} R$ |
+| **Rapporto tra i calori specifici molari a pressione costante e a volume costante** | $\frac{\text{calore specifico molare a pressione costante}}{\text{calore specifico molare a volume costante}} = \frac{\text{numero di gradi di libertà} + 2}{\text{numero di gradi di libertà}}$ | $\gamma = \frac{C_p}{C_v} = \frac{l+2}{l}$ |
+| **Temperatura e volume in una trasformazione adiabatica reversibile** | $\text{temperatura} = \left(\frac{\text{volume iniziale}}{\text{volume}}\right)^{\text{gamma}-1} \cdot (\text{temperatura iniziale})$ | $T = \left(\frac{V_i}{V}\right)^{\gamma-1} T_i$ |
+| **Pressione e volume in una trasformazione adiabatica reversibile** | $\text{pressione} = \left(\frac{\text{volume iniziale}}{\text{volume}}\right)^{\text{gamma}} \cdot (\text{pressione iniziale})$ | $p = \left(\frac{V_i}{V}\right)^{\gamma} p_i$ |
+| **Temperatura e pressione in una trasformazione adiabatica reversibile** | $\text{temperatura} = \left(\frac{\text{pressione}}{\text{pressione iniziale}}\right)^{\frac{\text{gamma}-1}{\text{gamma}}} \cdot (\text{temperatura iniziale})$ | $T = \left(\frac{p}{p_i}\right)^{\frac{\gamma-1}{\gamma}} T_i$ |
+| **Calore scambiato in una trasformazione isobara** | $(\text{moli}) \cdot (\text{calore specifico molare a pressione costante}) \times (\text{variazione di temperatura})$ | $Q_{\text{isobara}} = n C_p \Delta T$ |
+| **Calore scambiato in una trasformazione isocora** | $(\text{moli}) \cdot (\text{calore specifico molare a volume costante}) \times (\text{variazione di temperatura})$ | $Q_{\text{isocora}} = n C_v \Delta T$ |
